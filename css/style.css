@@ -1,0 +1,5 @@
+/* Sets the height and width of the container to match a mobile device */
+#game-container{
+    height: 650px;
+    width: 375px;
+}
